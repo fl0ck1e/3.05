@@ -1,0 +1,10 @@
+C:\Users\flockie\source\repos\3.05\3.05\bin\Debug\3.05.exe.config
+C:\Users\flockie\source\repos\3.05\3.05\bin\Debug\3.05.exe
+C:\Users\flockie\source\repos\3.05\3.05\bin\Debug\3.05.pdb
+C:\Users\flockie\source\repos\3.05\3.05\obj\Debug\3.05.csproj.AssemblyReference.cache
+C:\Users\flockie\source\repos\3.05\3.05\obj\Debug\_3._05.Form1.resources
+C:\Users\flockie\source\repos\3.05\3.05\obj\Debug\_3._05.Properties.Resources.resources
+C:\Users\flockie\source\repos\3.05\3.05\obj\Debug\3.05.csproj.GenerateResource.cache
+C:\Users\flockie\source\repos\3.05\3.05\obj\Debug\3.05.csproj.CoreCompileInputs.cache
+C:\Users\flockie\source\repos\3.05\3.05\obj\Debug\3.05.exe
+C:\Users\flockie\source\repos\3.05\3.05\obj\Debug\3.05.pdb
